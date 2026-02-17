@@ -1,7 +1,7 @@
 <!-- Profile README for aspirinoo -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=WELCOME+TO+aspirinoo;C%2B%2B+%7C+Python+%7C+Go+%7C+C%23+%7C+MySQL+%7C+Cybersecurity+%7C+AI+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=WELCOME;C%2B%2B+%7C+Python+%7C+Go+%7C+C%23+%7C+MySQL+%7C+Cybersecurity+%7C+AI+Automation" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-black?style=flat-square&logo=linux" />
