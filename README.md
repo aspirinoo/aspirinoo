@@ -14,7 +14,7 @@
 
 ### About Me
 
-- Software developer specialized in **C++**, **Python**, **Go**, **C#**, and **Lua**  
+- Software developer programing in **C++**, **Python**, **Go**, **C#**, and **Lua**  
 - Focused on **cybersecurity**, **secure coding**, and **automation systems with AI**  
 - Developer of **Discord bots** and backend utilities  
 - Comfortable working in **Linux environments**, **Bash scripting**, and database systems  
