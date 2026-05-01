@@ -94,8 +94,8 @@ mantra:      "if it works, harden it. if it doesn't, exploit it."
 ```ts
 const missions: Mission[] = [
   { name: "Discord bots & AI automation",   stack: ["Python", "discord.py", "OpenAI"],  status: "🟢 active"   },
-  { name: "Reverse engineering research",   stack: ["Ghidra", "C++", "Assembly"],       status: "🟡 ongoing"  },
-  { name: "Secure-by-default backend kit",  stack: ["Go", "MySQL", "Docker"],           status: "🔵 planning" },
+  { name: "Reverse engineering research",   stack: ["Ghidra", "C++", "Assembly"],       status: "🟢 active"  },
+  { name: "Secure-by-default backend kit",  stack: ["Go", "MySQL", "Docker"],           status: "🟢 active" },
   { name: "Lua game/server scripting",      stack: ["Lua", "C#"],                       status: "🟢 active"   },
 ];
 ```
